@@ -1,5 +1,5 @@
-# 💫 About Me:
-Soy apasionado en el software desde hace más de 3 años.<br><br>En 2021 empecé mis estudios profesionales y he participado en varios proyectos desde entonces, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software. Desde entonces me he dedicado a especializarme en el desarrollo Backend, aprender ingles, crear proyectos propios y empresas como el SENA.<br><br>
+# 💫 Hola; me llamo Juan Pablo:
+✨ Soy apasionado en el software desde hace más de 3 años.<br><br>📖 En 2021 empecé mis estudios profesionales y he participado en varios proyectos desde entonces, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.<br><br>📂 Desde entonces me he dedicado a especializarme en el desarrollo Backend, aprender ingles, crear proyectos propios y proyectos para  empresas como el SENA.<br><br>
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@ Soy apasionado en el software desde hace más de 3 años.<br><br>En 2021 empecé
 ![](https://github-readme-stats.vercel.app/api?username=Jp-lobo&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jp-lobo&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-lobo&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jp-lobo&icon=0&color=0)](https://visitcount.itsvg.in)
