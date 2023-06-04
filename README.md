@@ -1,5 +1,5 @@
 # 💫 Hola; me llamo Juan Pablo:
-✨ Soy apasionado en el software desde hace más de 3 años.<br><br>📖 En 2021 empecé mis estudios profesionales y he participado en varios proyectos desde entonces, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.<br><br>📂 Desde entonces me he dedicado a especializarme en el desarrollo Backend, aprender ingles, crear proyectos propios y proyectos para  empresas como el SENA.<br><br>
+✨ Soy apasionado en el software desde hace más de 3 años.<br><br>📖 En 2021 empecé mis estudios profesionales y he participado en varios proyectos desde entonces, mi objetivo es el de crecer como profesional dentro de la industria del desarrollo de software.<br><br>📂 Desde entonces me he dedicado a especializarme en el desarrollo Backend, aprender ingles, crear proyectos propios y proyectos para  empresas como el SENA.<br><br>
 
 
 # 💻 Tech Stack:
